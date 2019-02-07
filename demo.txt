@@ -4,12 +4,10 @@ Urarakaaa
 nagato
 yahhikkkop
 sajdxjakjabsb
-<<<<<<< HEAD
 qqafsf
 qwqw
-=======
 abcd
 efgh
 ijkl
 mnop
->>>>>>> 62997ef5d2d7487112a8bc7d0140fd0c2158aa80
+
